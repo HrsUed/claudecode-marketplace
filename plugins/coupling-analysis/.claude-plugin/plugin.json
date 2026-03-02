@@ -1,0 +1,11 @@
+{
+  "name": "coupling-analysis",
+  "version": "1.0.0",
+  "description": "均衡結合モデル（Balancing Coupling）でコンポーネント/モジュールの結合バランスを評価し、設計改善を提案するプラグイン。統合強度・距離・変動性の3次元で分析し、モジュール性と均衡度を算出します。",
+  "author": {
+    "name": "HrsUed"
+  },
+  "repository": "https://github.com/HrsUed/claudecode-marketplace",
+  "license": "MIT",
+  "keywords": ["coupling", "architecture", "design-review", "modularity", "balancing-coupling"]
+}
