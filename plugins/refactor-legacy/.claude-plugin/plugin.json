@@ -1,0 +1,11 @@
+{
+  "name": "refactor-legacy",
+  "version": "1.0.0",
+  "description": "レガシーコードを段階的に改善するプラグイン。現状確認、テスト戦略決定、TDDサイクル、モデル分離、アーキテクチャ定義の6フェーズで安全にリファクタリングを進めます。",
+  "author": {
+    "name": "HrsUed"
+  },
+  "repository": "https://github.com/HrsUed/claudecode-marketplace",
+  "license": "MIT",
+  "keywords": ["refactoring", "legacy", "tdd", "architecture", "modernization"]
+}

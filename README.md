@@ -8,6 +8,7 @@ Claude Code プラグインのマーケットプレイスリポジトリ。
 |-----------|------|-----------|
 | [coupling-analysis](./plugins/coupling-analysis/) | 均衡結合モデルでコンポーネントの結合バランスを評価し、設計改善を提案 | 1.0.0 |
 | [drawio](./plugins/drawio/) | draw.io形式のダイアグラムを生成し、PNG/SVG/PDFへのエクスポートに対応 | 1.0.0 |
+| [refactor-legacy](./plugins/refactor-legacy/) | レガシーコードを6フェーズで段階的に安全にリファクタリング | 1.0.0 |
 
 ## インストール
 
