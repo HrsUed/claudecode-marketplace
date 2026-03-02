@@ -1,0 +1,14 @@
+{
+  "name": "claudecode-marketplace",
+  "owner": {
+    "name": "HrsUed"
+  },
+  "plugins": [
+    {
+      "name": "coupling-analysis",
+      "source": "./plugins/coupling-analysis",
+      "description": "均衡結合モデル（Balancing Coupling）でコンポーネント/モジュールの結合バランスを評価し、設計改善を提案",
+      "version": "1.0.0"
+    }
+  ]
+}
