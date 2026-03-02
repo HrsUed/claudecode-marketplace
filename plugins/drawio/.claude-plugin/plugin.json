@@ -1,0 +1,11 @@
+{
+  "name": "drawio",
+  "version": "1.0.0",
+  "description": "draw.io形式のダイアグラムを生成し、PNG/SVG/PDFへのエクスポートにも対応するプラグイン。エクスポートファイルにはXMLが埋め込まれ、draw.ioで再編集可能。",
+  "author": {
+    "name": "HrsUed"
+  },
+  "repository": "https://github.com/HrsUed/claudecode-marketplace",
+  "license": "MIT",
+  "keywords": ["drawio", "diagram", "flowchart", "architecture", "visualization"]
+}
