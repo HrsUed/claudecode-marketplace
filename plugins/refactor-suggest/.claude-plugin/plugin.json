@@ -1,0 +1,11 @@
+{
+  "name": "refactor-suggest",
+  "version": "1.0.0",
+  "description": "Martin Fowlerのリファクタリングカタログ（66手法）に基づいてコードの「臭い」を検出し、Before/After例付きで改善提案を行うプラグイン。",
+  "author": {
+    "name": "HrsUed"
+  },
+  "repository": "https://github.com/HrsUed/claudecode-marketplace",
+  "license": "MIT",
+  "keywords": ["refactoring", "code-smells", "martin-fowler", "code-quality", "best-practices"]
+}

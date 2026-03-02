@@ -21,6 +21,12 @@
       "source": "./plugins/refactor-legacy",
       "description": "レガシーコードを6フェーズで段階的に安全にリファクタリング",
       "version": "1.0.0"
+    },
+    {
+      "name": "refactor-suggest",
+      "source": "./plugins/refactor-suggest",
+      "description": "Martin Fowlerのリファクタリングカタログに基づくコード改善提案",
+      "version": "1.0.0"
     }
   ]
 }
