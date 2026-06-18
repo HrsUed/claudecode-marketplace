@@ -1,0 +1,11 @@
+{
+  "name": "dandori",
+  "version": "1.0.0",
+  "description": "検討の着手直後に「前提シート」を固め、構造変更は「提案→承認→一括実装」で回す検討着手プロトコル。意思決定資料・提言書・設計書・比較資料などの手戻りを防ぐ。",
+  "author": {
+    "name": "HrsUed"
+  },
+  "repository": "https://github.com/HrsUed/claudecode-marketplace",
+  "license": "MIT",
+  "keywords": ["planning", "deliberation", "kickoff", "decision-making", "premise", "workflow", "段取り"]
+}
