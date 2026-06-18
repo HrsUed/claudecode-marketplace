@@ -17,12 +17,6 @@
       "version": "1.0.0"
     },
     {
-      "name": "drawio",
-      "source": "./plugins/drawio",
-      "description": "draw.io形式のダイアグラムを生成し、PNG/SVG/PDFへのエクスポートに対応",
-      "version": "1.0.0"
-    },
-    {
       "name": "refactor-legacy",
       "source": "./plugins/refactor-legacy",
       "description": "レガシーコードを6フェーズで段階的に安全にリファクタリング",
