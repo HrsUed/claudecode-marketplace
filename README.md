@@ -1,4 +1,4 @@
-# claudecode-marketplace
+# hrsued-cc-plugin-marketplace
 
 Claude Code プラグインのマーケットプレイスリポジトリ。
 
@@ -22,7 +22,7 @@ claude plugin marketplace add HrsUed/claudecode-marketplace
 ### プラグインをインストール
 
 ```bash
-claude plugin install coupling-analysis@claudecode-marketplace
+claude plugin install coupling-analysis@hrsued-cc-plugin-marketplace
 ```
 
 ### ローカルで試す
