@@ -11,9 +11,9 @@
       "version": "1.0.0"
     },
     {
-      "name": "drawio",
-      "source": "./plugins/drawio",
-      "description": "draw.io形式のダイアグラムを生成し、PNG/SVG/PDFへのエクスポートに対応",
+      "name": "dandori",
+      "source": "./plugins/dandori",
+      "description": "検討の着手直後に「前提シート」を固め、構造変更は「提案→承認→一括実装」で回す検討着手プロトコル",
       "version": "1.0.0"
     },
     {
